@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a> */}
-        <iframe width="1920" height="1080" src="https://www.youtube.com/embed/videoseries?list=PLEpflZFGXmE2de3HhZSNmpDK95CS5tV75&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" ></iframe>
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/videoseries?list=PLEpflZFGXmE2de3HhZSNmpDK95CS5tV75&autoplay=1&controls=0&modestbranding=1" frameborder="0" allow="autoplay; encrypted-media" ></iframe>
       </header>
     </div>
   );
